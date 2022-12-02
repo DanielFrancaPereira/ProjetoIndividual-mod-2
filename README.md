@@ -1,0 +1,1 @@
+Esta página deve ser salva na pasta docuentos do seu computador, caso contrário pode apresentar bugs e falhas na interface.
